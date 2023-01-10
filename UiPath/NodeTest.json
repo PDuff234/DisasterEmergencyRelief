@@ -1,0 +1,13 @@
+{
+	'Group': {
+		'Manoj':{
+			'City': 'Delhi',
+			'Band': '1'
+		},
+		'Kapil':{
+			'City': 'Noida',
+			'Band': '2'
+		}
+	}
+
+}
